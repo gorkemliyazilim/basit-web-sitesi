@@ -9,4 +9,4 @@ git clone https://github.com/gorkemliyazilim/basit-web-sitesi.git
 ```
 
 <img src="img/mobile.png" alt="telefon" width="200"/>
-<img src="img/laptop.png" alt="laptop" width="400"/>
+<img src="img/laptop.png" alt="laptop" width="300"/>
